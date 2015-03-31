@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/levigroker/CreateTextFileHere/raw/master/icon_512.png" alt="icon" style="width:128px;"/>
+<img src="https://github.com/levigroker/CreateTextFileHere/raw/master/CreateTextFileHere.iconset/icon_256x256.png" alt="icon"/>
 </p>
 
 Create Text File Here
