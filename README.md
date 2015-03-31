@@ -1,5 +1,10 @@
+<p align="center">
+<img src="https://github.com/levigroker/CreateTextFileHere/raw/master/icon_512.png" alt="icon" style="width:128px;"/>
+</p>
+
 Create Text File Here
 ===
+
 A manually activated Script to create a text file at the current Finder location
 with [BBEdit](http://www.bbedit.com/)  
 By Levi Brown <mailto:levigroker@gmail.com>  
