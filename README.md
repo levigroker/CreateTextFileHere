@@ -1,46 +1,39 @@
 Create Text File Here
+===
 A manually activated Script to create a text file at the current Finder location
-with BBEdit (see BBEdit homepage http://www.bbedit.com/ )
-By Levi Brown <mailto:levigroker@gmail.com>
-Version 1.0 September 8th, 2011
+with [BBEdit](http://www.bbedit.com/)  
+By Levi Brown <mailto:levigroker@gmail.com>  
+Version 1.1 March 31, 2015
 
 This script works in tandem with the 'bbedit' command line binary (which should
-already be installed and functional).
+already be installed and functional at `/usr/local/bin/bbedit`).
 
 The intention is for this script to be accessed from the currently active Finder
 window and acts on the current directory in the Finder. I suggest adding this
-script to the a Finder window's shelf (drag it into a Finder window at the top
+script to the a Finder window's shelf (command-drag it into a Finder window at the top
 where the other tool icons are located) so it is available from the Finder as
-needed.
+needed. Alternatively, it could be activated from the [Script Menu](https://iworkautomation.com/numbers/script-menu.html).
 
-* This script has been tested on Mac OS X 10.7.1 through 10.10.2 under US English and may
-contain i18n issues which are not accounted for.
+**Please Note**: This script has been tested on Mac OS X 10.7.1 through 10.10.2 under
+US English and may contain i18n issues which are not accounted for.
 
-Please feel free to contact me with improvements and feedback.
+#### Release History:
 
-Release History:
-1.0 September 8th, 2011: Release to GitHub.
-1.1 March 31st, 2015: Added custom icon.
+* 1.0 September 8, 2011: Release to GitHub.
+* 1.1 March 31, 2015: Added custom icon.
 
-Copyright (c) 2011-2015 Levi Brown.
-This work is licensed under the Creative Commons Attribution 3.0 Unported
-License. To view a copy of this license, visit
-http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
-Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+#### Licence
 
-1. DISCLAIMER OF WARRANTY.  ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS
-AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT
-THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
+* This work is licensed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+  Please see the included LICENSE.txt for complete details.
 
-2. LIMITATION OF LIABILITY.  TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT
-WILL THE AUTHOR OR THE AUTHOR'S LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT
-OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE
-DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR
-RELATED TO THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  In no event will the author's
-liability to you, whether in contract, tort (including negligence), or
-otherwise, exceed the amount paid by you for Software under this Agreement. The
-foregoing limitations will apply even if the above stated warranty fails of its
-essential purpose. Some states do not allow the exclusion of incidental or
-consequential damages, so some of the terms above may not be applicable to you.
+#### About
+
+A professional iOS engineer by day, my name is Levi Brown. Authoring a blog
+[grokin.gs](http://grokin.gs), I am reachable via:
+
+Twitter [@levigroker](https://twitter.com/levigroker)  
+App.net [@levigroker](https://alpha.app.net/levigroker)  
+Email [levigroker@gmail.com](mailto:levigroker@gmail.com)  
+
+Your constructive comments and feedback are always welcome.
