@@ -1,7 +1,7 @@
 Create Text File Here
 A manually activated Script to create a text file at the current Finder location
 with BBEdit (see BBEdit homepage http://www.bbedit.com/ )
-By Levi Brown <mailto:levi@grokers.net>
+By Levi Brown <mailto:levigroker@gmail.com>
 Version 1.0 September 8th, 2011
 
 This script works in tandem with the 'bbedit' command line binary (which should
@@ -13,15 +13,16 @@ script to the a Finder window's shelf (drag it into a Finder window at the top
 where the other tool icons are located) so it is available from the Finder as
 needed.
 
-* This script has been tested on Mac OS X 10.7.1 under US English and may
+* This script has been tested on Mac OS X 10.7.1 through 10.10.2 under US English and may
 contain i18n issues which are not accounted for.
 
 Please feel free to contact me with improvements and feedback.
 
 Release History:
 1.0 September 8th, 2011: Release to GitHub.
+1.1 March 31st, 2015: Added custom icon.
 
-Copyright (c) 2011 Levi Brown.
+Copyright (c) 2011-2015 Levi Brown.
 This work is licensed under the Creative Commons Attribution 3.0 Unported
 License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
